@@ -1,3 +1,4 @@
+import Head from 'next/head';
 import { useRouter } from 'next/router';
 import React, { useEffect, useState } from 'react';
 import SelectBox from '../components/SelectBox';
@@ -38,7 +39,10 @@ const Test = () => {
     };
 
     return (
-        <div className="w-full h-full flex flex-col items-center text-center gap-20">
+        <main className="w-full h-full flex flex-col items-center text-center gap-20">
+            <Head>
+                <title>테스트 중 . . . </title>
+            </Head>
             {
                 mbti.length === data.questions.length ?
                     <div className="my-auto">
@@ -64,8 +68,7 @@ const Test = () => {
                         </div>
                     </>
             }
-
-        </div>
+        </main>
     );
 };
 
