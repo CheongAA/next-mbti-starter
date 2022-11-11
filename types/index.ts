@@ -1,0 +1,1 @@
+export type MbtiType = "i" | "e" | "s" | "n" | "t" | "f" | "j" | "p";
