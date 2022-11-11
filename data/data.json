@@ -71,97 +71,97 @@
             "title": "몽상가 댕댕이",
             "subtitle": "가끔 창문밖을 바라보며 생각에 잠기는 . . .",
             "description": "조용한 공간에서 집사와 함께 힐링하는 것을 최고로 좋아하는 낭만있는 우리집 반려견",
-            "image": ""
+            "image": "/images/long_haired_chihuahua.png"
         },
         "infj": {
             "title": "해결사 댕댕이",
             "subtitle": "집사가 필요한 걸 빠르게 캐치하는 . . .",
             "description": "예민하고 섬세한 성격으로 집사의 해결사 역할을 해주는 우리집 반려견!",
-            "image": ""
+            "image": "/images/schnauzer.png"
         },
         "intp": {
             "title": "개인주의 댕댕이",
             "subtitle": "나만의 공간이 중요해!",
             "description": "집사와 함께하는 시간도 좋지만, 가끔은 나만의 공간에서 조용히 지내고 싶어!",
-            "image": ""
+            "image": "/images/standard_poodle.png"
         },
         "intj": {
             "title": "완벽주의 댕댕이",
             "subtitle": "산책과 밥은 정해진 시간에 주세요!",
             "description": "본인이 세운 계획이 틀어지는 것을 좋아하지 않아요.",
-            "image": ""
+            "image": "/images/standard_poodle.png"
         },
         "isfp": {
             "title": "귀차니즘 댕댕이",
             "subtitle": "침대 위가 제일 좋아!",
             "description": "자꾸 제 이름을 부르지마세요. . . 침대에 좀만 더 누워있고 싶어요.",
-            "image": ""
+            "image": "/images/beagle.png"
         },
         "isfj": {
             "title": "신중한 댕댕이",
             "subtitle": "반복적이고 익숙한 일이 좋아. . .",
             "description": "일관적이지 않은 집사의 모습에 당황할 수 있어요!",
-            "image": ""
+            "image": "/images/welsh_corgi.png"
         },
         "istp": {
             "title": "집중력 좋은 댕댕이",
             "subtitle": "집중력 뿜뿜",
             "description": "집사와 함께하는 훈련시간! 집중력을 발휘해서 빠르게 습득하는 우리집 반려견",
-            "image": ""
+            "image": "/images/shiba.png"
         },
         "istj": {
             "title": "정직한 댕댕이",
             "subtitle": "규칙을 잘 지키는. . .",
             "description": "집사가 실수로 두고 간 간식이라도 절대 허락 없이는 먹지 않는 우리집 반려견",
-            "image": ""
+            "image": "/images/schnauzer.png"
         },
         "enfp": {
             "title": "인싸 댕댕이",
             "subtitle": "우리동네 핵인싸 댕댕이",
             "description": "동네에 모르는 친구가 없는 우리집 반려견",
-            "image": ""
+            "image": "/images/long_haired_chihuahua.png"
         },
         "enfj": {
             "title": "정의로운 댕댕이",
             "subtitle": "싸우지마 친구들아..",
             "description": "친구들이 싸우는 건 절대 못봐! 내가 도와줄게 친구들아!",
-            "image": ""
+            "image": "/images/french_bulldog2.png"
         },
         "entp": {
             "title": "솔직한 댕댕이",
             "subtitle": "집사야 이 사료 맛없다!",
             "description": "취향이 확고한 우리집 반려견. 이 사료는 싫고, 저 사료는 좋아!",
-            "image": ""
+            "image": "/images/french_bulldog.png"
         },
         "entj": {
             "title": "리더 댕댕이",
             "subtitle": "카리스마 뿜뿜",
             "description": "당당하고 자신감 넘치는 리더 재질 우리집 반려견",
-            "image": ""
+            "image": "/images/doberman.png"
         },
         "esfp": {
             "title": "사랑꾼 댕댕이",
             "subtitle": "집사를 누구보다 좋아해!",
             "description": "한 번 마음을 주면 누구보다 사랑해 줄 수 있어!",
-            "image": ""
+            "image": "/images/golden_retriever.png"
         },
         "esfj": {
             "title": "리액션 좋은 댕댕이",
             "subtitle": "꺅 간식이다!",
             "description": "간식 좋아!! 저 친구 너무 귀엽다!! 오늘 날씨도 너무 좋아!!",
-            "image": ""
+            "image": "/images/dalmatian.png"
         },
         "estp": {
             "title": "자유로운 댕댕이",
             "subtitle": "다른집 반려견과는 어딘가 다른. . .",
             "description": "대문이 열려있다면 혼자 산책하고 돌아올 것 같은 우리집 반려견",
-            "image": ""
+            "image": "/images/beagle.png"
         },
         "estj": {
             "title": "모험을 즐기는 댕댕이",
             "subtitle": "오감을 통해 얻는 정보가 최고야!",
             "description": "집사야 등산도 가고, 바다도 가고, 다양한 경험을 하고싶어!",
-            "image": ""
+            "image": "/images/bull_terrier.png"
         }
     }
 }

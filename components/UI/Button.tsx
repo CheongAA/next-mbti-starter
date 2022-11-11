@@ -5,8 +5,8 @@ const Button = ({ title, backgroundColor, textColor }: {title: string, backgroun
     <div
       className={`${backgroundColor} 
       ${textColor} text-lg font-semibold
-      py-1 min-w-[200px] flex items-center justify-center rounded-2xl
-      hover:text-xl cursor-pointer`}
+      py-2 min-w-[200px] flex items-center justify-center rounded-2xl
+      hover:scale-105 transition duration-200 cursor-pointer`}
     >
       <p>{title}</p>
     </div>
