@@ -1,8 +1,8 @@
-import Head from 'next/head';
-import Link from 'next/link';
-import Animation from '../components/UI/Animation';
-import Button from '../components/UI/Button';
-import Data from '../data/data.json';
+import Head from "next/head";
+import Link from "next/link";
+import Animation from "../components/UI/Animation";
+import Button from "../components/UI/Button";
+import Data from "../data/data.json";
 
 const Home = () => {
   return (
@@ -15,7 +15,9 @@ const Home = () => {
         <h1 className="text-3xl font-bold">{Data.title}</h1>
         <p className="text-xl font-semibold">{Data.subtitle}</p>
       </div>
-      <Animation />
+      <div className="flex">
+        <Animation />
+      </div>
       <div className="flex flex-col gap-3">
         <Link href="/test">
           <Button
