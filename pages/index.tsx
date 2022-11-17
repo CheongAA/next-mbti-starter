@@ -20,11 +20,13 @@ const Home = () => {
       </div>
       <div className="flex flex-col gap-3">
         <Link href="/test">
-          <Button
-            title="테스트 시작"
-            backgroundColor="bg-primary"
-            textColor="text-white"
-          />
+          <a>
+            <Button
+              title="테스트 시작"
+              backgroundColor="bg-primary"
+              textColor="text-white"
+            />
+          </a>
         </Link>
 
         <Button
