@@ -49,15 +49,25 @@ const Result = () => {
         <h1 className="text-4xl font-bold">{title}</h1>
         <h2 className="text-2xl font-semibold">{subtitle}</h2>
         <div className="relative w-full h-60">
-          <Image src={image} layout="fill" objectFit="fill" alt={title} />
+          {!!image && (
+            <Image
+              src={image}
+              layout="fill"
+              objectFit="fill"
+              alt={title}
+              priority
+            />
+          )}
         </div>
         <p className="text-lg pb-10">{description}</p>
         <Link href="/">
-          <Button
-            title="테스트 다시하기"
-            backgroundColor="bg-secondary"
-            textColor="text-white"
-          />
+          <a>
+            <Button
+              title="테스트 다시하기"
+              backgroundColor="bg-secondary"
+              textColor="text-white"
+            />
+          </a>
         </Link>
       </div>
     </main>
